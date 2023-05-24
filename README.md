@@ -23,3 +23,4 @@ GIC勉強会
 | 7. | 変圧器が広範囲で故障すると、広域での停電が発生する可能性がある |
 | 8. | 変圧器の交換や修理には時間とコストがかかるため、影響は深刻になる可能性がある |
 
+<img width=750 src="https://github.com/Ratescale/GICstudy/assets/49857703/a0be088b-615f-428e-ab55-f33baf7b436c">
